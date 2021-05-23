@@ -1,0 +1,1 @@
+(self.webpackChunkabc=self.webpackChunkabc||[]).push([[168],{621:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/abc/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/abc/blog/tags/hello"}')}}]);
