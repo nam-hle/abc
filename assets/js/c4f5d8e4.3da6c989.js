@@ -1,0 +1,1 @@
+(self.webpackChunkabc=self.webpackChunkabc||[]).push([[195],{9766:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return c}});var i=n(7294),a=n(2611),r=n(2263);function c(){var e=(0,r.default)().siteConfig;return i.createElement(a.Z,{title:"Hello from "+e.title,description:"Description will go into a meta tag in <head />"})}}}]);
